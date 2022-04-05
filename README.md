@@ -6,7 +6,7 @@ I'm a Full Stack Developer who loves tinkering with PHP &amp; Laravel, building 
 Here's some about me:
 
 - 🔭 I started to building tools to ease developers lives;
-- 🌱 I’m currently learning Laravel, Vue.js and TailwindCSS;
+- 🌱 I’m currently learning Laravel, React and TailwindCSS;
 - 👯 I’m looking to collaborate on interesting projects;
 - 🎸 Playing guitar when feeling bored;
 -------
