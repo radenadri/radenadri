@@ -1,4 +1,4 @@
-## Hi! My name is <a href="https://radenadri.devfolio.io">Adriana Eka Prayudha</a> 👋
+## Hi! My name is <a href="https://radenadri.netlify.app">Adriana Eka Prayudha</a> 👋
 ---
 👨‍💻 **Who am i?**
 I'm a Full Stack Developer who loves tinkering with PHP &amp; Laravel, building blocks with TailwindCSS, currently learning to writing something awesome related to tech. I also spend a lot of time surfing on my laptop exploring the UI/UX stuff or racking my brain to solve interesting problems.
