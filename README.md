@@ -1,4 +1,4 @@
-## Hi! My name is [Adriana Eka Prayudha](https://radenadri.netlify.app)👋
+## Hi! My name is [Adriana Eka Prayudha](https://radenadri.xyz)👋
 ---
 👨‍💻 **Who am i?**
 I'm a Full Stack Developer who loves tinkering with PHP &amp; Laravel, building blocks with TailwindCSS, currently learning to writing something awesome related to tech. I also spend a lot of time surfing on my laptop exploring the UI/UX stuff or racking my brain to solve interesting problems.
