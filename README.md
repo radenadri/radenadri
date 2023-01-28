@@ -5,10 +5,10 @@ Software engineer who loves tinkering and build something. Currently learning to
 
 Here's some about me:
 
--🔭 I started to building tools to ease developers lives;
--🌱 I’m currently learning Laravel, React and TailwindCSS;
--👯 I’m looking to collaborate on interesting projects;
--🎸 Playing guitar when feeling bored;
+- 🔭 I started to building tools to ease developers lives;
+- 🌱 I’m currently learning Laravel, React and TailwindCSS;
+- 👯 I’m looking to collaborate on interesting projects;
+- 🎸 Playing guitar when feeling bored;
 -------
 📈 **My GitHub Stats**
 <p>
