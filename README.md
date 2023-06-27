@@ -12,6 +12,5 @@ Here's some about me:
 -------
 📈 **My GitHub Stats**
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=radenadri&amp;show_icons=true&amp;hide_border=true&amp;&amp;count_private=true&amp;include_all_commits=true" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radenadri&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;layout=compact&amp;langs_count=8" height="180em">
 </p>
