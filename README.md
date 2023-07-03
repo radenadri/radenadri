@@ -33,6 +33,6 @@ Here's some about me:
 
 📈 **GitHub Stats**
 ---
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radenadri&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;layout=compact&amp;langs_count=8" height="180em">
-</p>
+<a href="https://github.com/radenadri/radenadri">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radenadri&amp;show_icons=true&amp;hide_border=false&amp;count_private=true&amp;layout=compact&amp;langs_count=8" height="180em">
+</a>
