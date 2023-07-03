@@ -1,5 +1,10 @@
 ## Hi! My name is [Adriana Eka Prayudha](https://radenadri.xyz)👋
 ---
+
+[![Twitter: Adri](https://img.shields.io/twitter/follow/radenadri?style=social)](https://twitter.com/radenadri)
+[![Linkedin: radenadri](https://img.shields.io/badge/-radenadri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radenadri/)](https://www.linkedin.com/in/radenadri/)
+[![GitHub Adriana Eka Prayudha](https://img.shields.io/github/followers/radenadri?label=follow&style=social)](https://github.com/radenadri)
+
 👨‍💻 **Who am i?**
 Software engineer who loves tinkering and build something. Currently learning to writing something awesome related to tech. I also spend a lot of time surfing on my laptop and racking my brain to solve interesting problems.
 
