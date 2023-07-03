@@ -1,5 +1,4 @@
-## Hi! My name is [Adriana Eka Prayudha](https://radenadri.xyz)👋
----
+# Hi! My name is [Adriana Eka Prayudha](https://radenadri.xyz)👋
 
 [![Twitter: Adri](https://img.shields.io/twitter/follow/radenadri?style=social)](https://twitter.com/radenadri)
 [![Linkedin: radenadri](https://img.shields.io/badge/-radenadri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radenadri/)](https://www.linkedin.com/in/radenadri/)
@@ -14,7 +13,6 @@ Here's some about me:
 - 🌱 I’m currently learning Laravel, Next.js & Flutter;
 - 👯 I’m looking to collaborate on interesting projects;
 - 🎸 Playing guitar when feeling bored;
--------
 
 **Daily Tools**
 ---
