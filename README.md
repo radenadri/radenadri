@@ -5,7 +5,7 @@
 [![GitHub Adriana Eka Prayudha](https://img.shields.io/github/followers/radenadri?label=follow&style=social)](https://github.com/radenadri)
 
 👨‍💻 **Who am i?**
-Software engineer who loves tinkering and build something. Currently learning to writing something awesome related to tech. I also spend a lot of time surfing on my laptop and racking my brain to solve interesting problems.
+Software developer who loves tinkering and build something. Currently learning to writing something awesome related to tech. I also spend a lot of time surfing on my laptop and racking my brain to solve interesting problems.
 
 Here's some about me:
 
