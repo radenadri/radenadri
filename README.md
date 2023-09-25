@@ -5,14 +5,14 @@
 [![GitHub Adriana Eka Prayudha](https://img.shields.io/github/followers/radenadri?label=follow&style=social)](https://github.com/radenadri)
 
 👨‍💻 **Who am i?**
-Software developer who loves tinkering and build something. Currently learning to writing something awesome related to tech. I also spend a lot of time surfing on my laptop and racking my brain to solve interesting problems.
+I am software engineer that specialized in frontend development with a passion for creating engaging digital experiences.
 
 Here's some about me:
 
-- 🔭 I started to building tools to ease developers lives;
-- 🌱 I’m currently learning PHP/Laravel, React & Flutter;
-- 👯 I’m looking to collaborate on interesting projects;
-- 🎸 Playing guitar when feeling bored;
+🔭 I started to building tools to ease developers lives;
+🌱 I’m currently learning PHP/Laravel, React, and Flutter;
+👯 I’m looking to collaborate on interesting projects;
+🎸 Playing guitar when feeling bored;
 
 **Daily Tools**
 ---
