@@ -10,7 +10,7 @@ I am software engineer that specialized in frontend development with a passion f
 Here's some about me:
 
 - 🔭 I started to building tools to ease developers lives; 
-- 🌱 I’m currently learning PHP/Laravel, React, and Flutter; 
+- 🌱 I’m currently learning PHP/Laravel, Vue, and Flutter; 
 - 👯 I’m looking to collaborate on interesting projects; 
 - 🎸 Playing guitar when feeling bored;
 
