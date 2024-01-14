@@ -5,7 +5,7 @@
 [![GitHub Adriana Eka Prayudha](https://img.shields.io/github/followers/radenadri?label=follow&style=social)](https://github.com/radenadri)
 
 👨‍💻 **Who am i?**
-I am software engineer that specialized in frontend development with a passion for creating engaging digital experiences.
+Enthusiastic developer that specialized in web development with a passion for creating engaging digital experiences.
 
 Here's some about me:
 
