@@ -4,7 +4,7 @@
 [![Linkedin: radenadri](https://img.shields.io/badge/-radenadri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radenadri/)](https://www.linkedin.com/in/radenadri/)
 [![GitHub Adriana Eka Prayudha](https://img.shields.io/github/followers/radenadri?label=follow&style=social)](https://github.com/radenadri)
 
-👨‍💻 Enthusiastic developer with a passion for creating engaging digital experiences. Currently working with Flutter.
+👨‍💻 Enthusiastic developer with a passion for creating engaging digital experiences. Currently working with Laravel, Node.js, Flutter.
 
 Here's some about me:
 
