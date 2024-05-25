@@ -4,7 +4,7 @@
 [![Linkedin: radenadri](https://img.shields.io/badge/-radenadri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radenadri/)](https://www.linkedin.com/in/radenadri/)
 [![GitHub Adriana Eka Prayudha](https://img.shields.io/github/followers/radenadri?label=follow&style=social)](https://github.com/radenadri)
 
-👨‍💻 Enthusiastic developer with a passion for creating engaging digital experiences. Currently working with Laravel, Node.js, Flutter.
+👨‍💻 Enthusiastic developer with a passion for creating engaging digital experiences.
 
 Here's some about me:
 
@@ -18,7 +18,6 @@ Here's some about me:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
