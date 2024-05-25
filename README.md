@@ -8,9 +8,8 @@
 
 Here's some about me:
 
-- 🔭 I started to building tools to ease developers lives; 
-- 🌱 I’m currently learning Node.js, Golang, Vue, and Flutter; 
-- 👯 I’m looking to collaborate on interesting projects; 
+- 📖 Love to learn all things about technology.
+- 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - 🎸 Playing guitar when feeling bored;
 
 **Currently working with**
