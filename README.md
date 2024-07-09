@@ -4,7 +4,7 @@
 [![Linkedin: radenadri](https://img.shields.io/badge/-radenadri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radenadri/)](https://www.linkedin.com/in/radenadri/)
 [![GitHub Adriana Eka Prayudha](https://img.shields.io/github/followers/radenadri?label=follow&style=social)](https://github.com/radenadri)
 
-- 👨‍💻 Mobile developer
+- 👨‍💻 Mobile developer;
 - 📖 Love to learn something new;
 - 🎸 Playing guitar when feeling bored;
 
