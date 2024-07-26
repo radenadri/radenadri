@@ -39,6 +39,9 @@
 
 📈 **GitHub Stats**
 ---
-<a href="https://github.com/radenadri/radenadri">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radenadri&amp;show_icons=true&amp;hide_border=false&amp;count_private=true&amp;layout=compact&amp;langs_count=8" height="180em">
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radenadri&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radenadri&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radenadri&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=radenadri&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=radenadri&theme=vue&utcOffset=7)
+
