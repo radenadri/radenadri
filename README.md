@@ -35,11 +35,3 @@
 
 ![Alt Text](https://media.giphy.com/media/8EmeieJAGjvUI/giphy.gif)
 
-📈 **GitHub Stats**
----
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radenadri&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radenadri&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radenadri&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=radenadri&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=radenadri&theme=vue&utcOffset=7)
-
