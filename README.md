@@ -2,7 +2,7 @@
 
 [![Twitter: Adri](https://img.shields.io/twitter/follow/radenadri?style=social)](https://twitter.com/radenadri)
 
-- 👨‍💻 Full stack developer;
+- 👨‍💻 Frontend developer;
 - 📖 Love to learn something new;
 - 🎸 Playing guitar when feeling bored;
 
